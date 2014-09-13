@@ -23,40 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataBase.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/DataBase.scala">
+      <file leaf-file-name="GetApples.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/GetApples.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FoodCategories.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategories.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleFood.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleFood.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleDatabaseTest.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabaseTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="420">
+            <state vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
@@ -67,17 +37,37 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Browser.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleDatabase.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabase.scala">
+      <file leaf-file-name="StudentDatabase.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/StudentDatabase.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23498695" vertical-offset="0" max-vertical-offset="383">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetApplesTest.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/GetApplesTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recipe.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Recipe.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -87,27 +77,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleRecipes.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleBrowserTest.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowserTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="420">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Recipe.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Recipe.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -123,9 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/chapter23_ForExpressionRevisited/QueensQuestion.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/chapter23_ForExpressionRevisited/QueensQuestionTest.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/chapter23_ForExpressionRevisited/BookTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter23_ForExpressionRevisited/Books.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter23_ForExpressionRevisited/ConvertForExpression.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/chapter23_ForExpressionRevisited/ConvertForExpressionTest.scala" />
@@ -160,20 +127,23 @@
         <option value="$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowser$Test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Food.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowser.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/StudendDatabase.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodTrait.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/DataBase.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategoryTrait.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategory.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategorys.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategories.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Browser.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Recipe.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleFood.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabaseTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleRecipes.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowserTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabase.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/StudendDatabase.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/StudentDatabase.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Browser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Recipe.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/GetApplesTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/GetApples.scala" />
       </list>
     </option>
   </component>
@@ -353,36 +323,6 @@
               <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter27_ModularProgrammingUsingObject" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Food.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programingInScala2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programingInScala2" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -447,7 +387,7 @@
       <recent name="chapter24_Extractor" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.ScalaTests in 'chapter27_ModularProgrammingUsingObject'">
+  <component name="RunManager" selected="ScalaTest.GetApplesTest">
     <configuration default="false" name="SimpleDatabaseTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="programinginscala2" />
       <setting name="path" value="chapter27_ModularProgrammingUsingObject.SimpleDatabaseTest" />
@@ -458,36 +398,6 @@
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SimpleBrowserTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="programinginscala2" />
-      <setting name="path" value="chapter27_ModularProgrammingUsingObject.SimpleBrowserTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SimpleBrowserTest.カテゴリ表示のテスト_カテゴリの文字列を返す" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="programinginscala2" />
-      <setting name="path" value="chapter27_ModularProgrammingUsingObject.SimpleBrowserTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="カテゴリ表示のテスト_カテゴリの文字列を返す" />
-      <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -518,6 +428,36 @@
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="All in package" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetApplesTest.リンゴのレシピ取得のテスト_dbがstudentの場合_レシピはない" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="programinginscala2" />
+      <setting name="path" value="chapter27_ModularProgrammingUsingObject.GetApplesTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="リンゴのレシピ取得のテスト_dbがstudentの場合_レシピはない" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetApplesTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="programinginscala2" />
+      <setting name="path" value="chapter27_ModularProgrammingUsingObject.GetApplesTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -693,18 +633,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="ScalaTest.SimpleDatabaseTest" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest.カテゴリ表示のテスト_カテゴリの文字列を返す" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest.レシピ表示のテスト_foodを使用したレシピがある場合_レシピを返す" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'chapter27_ModularProgrammingUsingObject'" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest.レシピ表示のテスト_foodを使用したレシピがある場合_レシピを返す" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'chapter27_ModularProgrammingUsingObject'" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.GetApplesTest.リンゴのレシピ取得のテスト_dbがstudentの場合_レシピはない" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.GetApplesTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'chapter27_ModularProgrammingUsingObject'" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest.レシピ表示のテスト_foodを使用したレシピがある場合_レシピを返す" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.SimpleDatabaseTest" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest.カテゴリ表示のテスト_カテゴリの文字列を返す" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.GetApplesTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'chapter27_ModularProgrammingUsingObject'" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.GetApplesTest.リンゴのレシピ取得のテスト_dbがstudentの場合_レシピはない" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.SimpleBrowserTest.レシピ表示のテスト_foodを使用したレシピがある場合_レシピを返す" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.SimpleDatabaseTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -797,7 +737,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24622357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3323077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3323077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -831,22 +771,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/lib/scala-library.jar!/scala/collection/immutable/Stream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.92" vertical-offset="137" max-vertical-offset="1650">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter23_ForExpressionRevisited/Person.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1633987" vertical-offset="0" max-vertical-offset="459">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
@@ -1145,54 +1069,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowser.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/StudendDatabase.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/DataBase.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategories.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Browser.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Recipe.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Food.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19582245" vertical-offset="0" max-vertical-offset="383">
@@ -1201,9 +1077,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowserTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49086162" vertical-offset="7" max-vertical-offset="420">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabaseTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="420">
+        <state vertical-scroll-proportion="0.44908616" vertical-offset="8" max-vertical-offset="420">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
@@ -1211,16 +1095,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleFood.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+        <state vertical-scroll-proportion="0.2955665" vertical-offset="0" max-vertical-offset="406">
           <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowserTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/FoodCategories.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="420">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22167487" vertical-offset="0" max-vertical-offset="406">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/DataBase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleBrowser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Browser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/StudentDatabase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1228,15 +1152,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleRecipes.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/SimpleDatabase.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/Recipe.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23498695" vertical-offset="0" max-vertical-offset="383">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/chapter27_ModularProgrammingUsingObject/GetApplesTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapter27_ModularProgrammingUsingObject/GetApples.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>

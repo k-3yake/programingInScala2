@@ -6,4 +6,3 @@ package chapter27_ModularProgrammingUsingObject
 class Recipe(val name: String, val ingredient: List[Food], val instructions: String) {
   override def toString = name
 }
-object FruitsSalad extends Recipe("FruitsSalad",List(Apple,Orange,Cream,Sugar),"混ぜる")
