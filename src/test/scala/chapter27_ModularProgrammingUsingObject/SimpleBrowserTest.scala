@@ -1,6 +1,5 @@
 package chapter27_ModularProgrammingUsingObject
 
-import chapter27_ModularProgrammingUsingObject.SimpleDatabase.Apple
 import org.scalatest.FunSuite
 
 /**
@@ -9,7 +8,6 @@ import org.scalatest.FunSuite
 class SimpleBrowserTest extends FunSuite {
 
   test("レシピ表示のテスト_foodを使用したレシピがある場合_レシピを返す"){
-//    val apple = new Food("Apple")
     assert(SimpleBrowser.recipesUsing(Apple)(0).name == "FruitsSalad")
   }
   test("レシピ表示のテスト_Foodを使用したレシピがない場合_空を返す"){
