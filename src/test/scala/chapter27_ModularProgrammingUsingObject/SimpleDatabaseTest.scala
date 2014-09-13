@@ -8,7 +8,7 @@ import org.scalatest.FunSuite
 class SimpleDatabaseTest extends FunSuite {
 
   test("Foodの全件取得のテスト"){
-    assert(SimpleDatabase.allFood() == List(Apple,Orange,Cream,Sugar))
+    assert(SimpleDatabase.allFood().toString() == "List(Apple, Orange, Cream, Sugar, Pear)")
   }
 
   test("Foodの名前検索_一致する名前のFoodがある場合_Foodを返す"){

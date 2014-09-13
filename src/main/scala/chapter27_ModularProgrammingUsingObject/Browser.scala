@@ -9,5 +9,5 @@ abstract class Browser {
   def recipesUsing(food: Food): List[Recipe] = {
     SimpleDatabase.allRecipes().filter(recipe => recipe.ingredient.contains(food))
   }
-  def displayCategory(category: database.FoodCategory) = category.toString
+  def displayCategory(category: FoodCategory) = category.toString
 }
