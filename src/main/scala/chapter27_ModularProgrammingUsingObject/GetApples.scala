@@ -10,6 +10,9 @@ object GetApples {
       if(dbName == "student") StudentDatabase
       else SimpleDatabase
     val browser = new Browser { val database = db }
+
+    for (category <- db.allCategories) browser.displayCategory(category)
+
     browser.recipesUsing(Apple)
   }
 
