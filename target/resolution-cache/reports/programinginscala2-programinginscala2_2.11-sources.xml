@@ -3,11 +3,11 @@
 <ivy-report version="1.0">
 	<info
 		organisation="programinginscala2"
-		module="programinginscala2_2.10"
+		module="programinginscala2_2.11"
 		revision="1.0"
-		conf="docs"
+		conf="sources"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20140924235639"/>
+		date="20140924180555"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
