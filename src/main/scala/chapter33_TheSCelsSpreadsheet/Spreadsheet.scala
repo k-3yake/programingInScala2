@@ -40,7 +40,6 @@ class Spreadsheet(val height: Int, val width: Int) extends ScrollPane{
 
 class Model(val height: Int, val width: Int) {
   case class Cell(val row: Int, val column: Int)
-
   val cells = Array.ofDim[Cell](height,width)
   for (i <- 0 until height; j <- 0 until width) cells(i)(j) = new Cell(i, j)
 }
