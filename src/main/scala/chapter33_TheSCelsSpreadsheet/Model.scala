@@ -5,6 +5,8 @@ package chapter33_TheSCelsSpreadsheet
  */
 class Model(val height: Int, val width: Int) {
   case class Cell(val row: Int, val column: Int){
+    def value: Double = _
+
     var formula: Formula = Empty
     override def toString = formula.toString
   }
