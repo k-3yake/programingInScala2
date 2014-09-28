@@ -15,9 +15,11 @@ class Spreadsheet(val height: Int, val width: Int) extends ScrollPane{
     autoResizeMode = Table.AutoResizeMode.Off
     showGrid = true
     gridColor = new Color(150,150,150)
+    for(row <- cells; cell <- row) listenTo(cell)
     reactions += {
       case TableUpdated(table,rows,column) =>
         for(row <- rows) cells(row)(column).formula = FormulaParsers.parse(userData(row,column))
+      case ValueChanged(cell) => updateCell(cell.row,cell.column)
     }
 
     override def rendererComponent(isSelected: Boolean,focused: Boolean,row: Int,column: Int): Component = {

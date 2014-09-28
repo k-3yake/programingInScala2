@@ -1,17 +1,40 @@
 package chapter33_TheSCelsSpreadsheet
 
+import scala.swing.event.ValueChanged
+import swing._
 /**
  * Created by katsuki on 2014/09/27.
  */
 class Model(val height: Int, val width: Int) extends Evaluator with Arithmetic{
-  case class Cell(val row: Int, val column: Int){
-    var formula: Formula = Empty
-    def value: Double = evaluate(formula)
+  val cells = Array.ofDim[Cell](height,width)
+  for (i <- 0 until height; j <- 0 until width) cells(i)(j) = new Cell(i, j)
+
+  case class ValueChanged(cell: Cell) extends event.Event
+  case class Cell(val row: Int, val column: Int) extends Publisher {
+
+    private var f: Formula = Empty
+    def formula: Formula = f
+    def formula_=(f: Formula) {
+      for (c <- references(formula)) deafTo(c)
+      this.f = f
+      for (c <- references(formula)) listenTo(c)
+      value = evaluate(f)
+    }
+
+    private var v: Double = 0
+    def value: Double = v
+    def value_=(w: Double) {
+      if (!(v == w || v.isNaN && w.isNaN)) {
+        v = w
+        publish(ValueChanged(this))
+      }
+    }
+
     override def toString = formula match {
       case Textual(s) => s
       case _ => value.toString
     }
+
+    reactions += {   case ValueChanged(_) => value = evaluate(formula)   }
   }
-  val cells = Array.ofDim[Cell](height,width)
-  for (i <- 0 until height; j <- 0 until width) cells(i)(j) = new Cell(i, j)
 }

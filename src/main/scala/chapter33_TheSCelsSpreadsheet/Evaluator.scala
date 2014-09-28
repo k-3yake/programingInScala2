@@ -30,7 +30,7 @@ trait Evaluator { this: Model =>
     case _ => List(evaluate(e))
   }
 
-  private def references(e: Formula): List[Cell] = e match {
+  def references(e: Formula): List[Cell] = e match {
     case Coord(row,column) =>
       List(cells(row)(column))
     case Range(Coord(r1,c1),Coord(r2,c2)) =>
