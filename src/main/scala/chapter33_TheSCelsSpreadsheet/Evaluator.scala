@@ -34,8 +34,7 @@ trait Evaluator { this: Model =>
     case Coord(row,column) =>
       List(cells(row)(column))
     case Range(Coord(r1,c1),Coord(r2,c2)) =>
-      for(row <- (r1 to r2).toList;column <- c1 to c2)
-      yield cells(row)(column)
+      for(row <- (r1 to r2).toList;column <- c1 to c2) yield cells(row)(column)
     case Application(function,arguments) =>
       arguments flatMap references
     case _ =>
