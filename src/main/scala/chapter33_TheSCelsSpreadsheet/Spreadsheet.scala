@@ -1,7 +1,7 @@
 package chapter33_TheSCelsSpreadsheet
 
 import scala.swing._
-import scala.Array
+import scala.swing.event.TableUpdated
 
 /**
  * Created by katsuki on 2014/09/25.
@@ -15,6 +15,10 @@ class Spreadsheet(val height: Int, val width: Int) extends ScrollPane{
     autoResizeMode = Table.AutoResizeMode.Off
     showGrid = true
     gridColor = new Color(150,150,150)
+    reactions += {
+      case TableUpdated(table,rows,column) =>
+        for(row <- rows) cells(row)(column).formula = FormulaParsers.parse(userData(row,column))
+    }
 
     override def rendererComponent(isSelected: Boolean,focused: Boolean,row: Int,column: Int): Component = {
       if(hasFocus) new TextField(userData(row,column))
@@ -36,12 +40,6 @@ class Spreadsheet(val height: Int, val width: Int) extends ScrollPane{
 
   viewportView = table
   rowHeaderView = rowHeader
-}
-
-class Model(val height: Int, val width: Int) {
-  case class Cell(val row: Int, val column: Int)
-  val cells = Array.ofDim[Cell](height,width)
-  for (i <- 0 until height; j <- 0 until width) cells(i)(j) = new Cell(i, j)
 }
 
 object Spreadsheet extends SimpleSwingApplication {
